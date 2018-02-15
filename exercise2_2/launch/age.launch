@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="exercise2_2" type="simple_topic_publisher.py" name="publish_age_node"  output="screen">
+    </node>
+</launch>
